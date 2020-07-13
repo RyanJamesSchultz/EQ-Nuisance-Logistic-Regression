@@ -4,8 +4,6 @@ We present a Matlab-based functional enviroment, EQ-Nuisance-Logistic-Regression
 
 These files are a collection of matlab programs and scripts designed to handle ShakeMap and Did You Feel It? (DYFI) data, and estimate the likelihood of feeling earthquake ground motion.  Parts of this code are hard-wired, and will require some thought as to how to adapt them.  Data will have to be acquired independently to run these routines.  In general, these codes are to serve as a template to build new routines off of, rather than for out-of-the-box use.
 
-For sample use see "script_\*.m" or "test_\*.m" files to recreate figures within the corresponding manuscript (Schultz et al., 2015).
-
 References: 
             
             Schultz, R., Quitoriano, V., Wald, D., & Beroza, G., 2020
