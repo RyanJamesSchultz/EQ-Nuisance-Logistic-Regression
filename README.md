@@ -6,10 +6,10 @@ These files are a collection of matlab programs and scripts designed to handle S
 
 References: 
             
-            Schultz, R., Quitoriano, V., Wald, D., & Beroza, G., 2020
+            Schultz, R., Quitoriano, V., Wald, D., & Beroza, G., 2021
             Quantifying nuisance ground motion thresholds for induced earthquakes
-            Earthquake Spectra, XX, XX-XX.
-            doi: XXX.
+            Earthquake Spectra, XX, 1-14.
+            doi: 10.1177/8755293020988025.
 
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version.
