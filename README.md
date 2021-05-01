@@ -8,7 +8,7 @@ References:
             
             Schultz, R., Quitoriano, V., Wald, D., & Beroza, G., 2021
             Quantifying nuisance ground motion thresholds for induced earthquakes
-            Earthquake Spectra, XX, 1-14.
+            Earthquake Spectra, 37(2), 789-802.
             doi: 10.1177/8755293020988025.
 
 
